@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/palikalalitha/emoji-game/static/css/main.e071c01b.css",
-    "main.js": "/palikalalitha/emoji-game/static/js/main.62e2b38f.js",
-    "index.html": "/palikalalitha/emoji-game/index.html",
-    "main.e071c01b.css.map": "/palikalalitha/emoji-game/static/css/main.e071c01b.css.map",
-    "main.62e2b38f.js.map": "/palikalalitha/emoji-game/static/js/main.62e2b38f.js.map"
+    "main.css": "/emoji-game/static/css/main.e071c01b.css",
+    "main.js": "/emoji-game/static/js/main.62e2b38f.js",
+    "index.html": "/emoji-game/index.html",
+    "main.e071c01b.css.map": "/emoji-game/static/css/main.e071c01b.css.map",
+    "main.62e2b38f.js.map": "/emoji-game/static/js/main.62e2b38f.js.map"
   },
   "entrypoints": [
     "static/css/main.e071c01b.css",
